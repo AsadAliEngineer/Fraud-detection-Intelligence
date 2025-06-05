@@ -194,7 +194,7 @@ Fraud-detection-Intelligence/
 ### Install
 
 ```bash
-git clone https://github.com/AsadAliEng/Fraud-detection-Intelligence.git
+git clone https://github.com/AsadAliEngineer/Fraud-detection-Intelligence.git
 cd Fraud-detection-Intelligence
 
 python -m venv .fraudvenv
@@ -344,13 +344,13 @@ Licensed under the **MIT License**. Review [`LICENSE.md`](LICENSE.md) before reu
 <table>
   <tr>
     <td width="150" align="center">
-      <img src="https://github.com/AsadAliEng.png?size=160" width="120" alt="Asad Ali GitHub avatar"><br>
+      <img src="https://github.com/AsadAliEngineer.png?size=160" width="120" alt="Asad Ali GitHub avatar"><br>
       <strong>Asad Ali</strong>
     </td>
     <td>
       <strong>AI, Blockchain & Software Engineer</strong><br><br>
-      🐙 GitHub: <a href="https://github.com/AsadAliEng">@AsadAliEng</a><br>
-      📧 Email: <a href="mailto:asadali.cryptoeng@gmail.com">asadali.cryptoeng@gmail.com</a><br>
+      🐙 GitHub: <a href="https://github.com/AsadAliEngineer">@AsadAliEngineer</a><br>
+      📧 Email: <a href="mailto:asadalieng1107@gmail.com">asadalieng1107@gmail.com</a><br>
       🚀 Focus: intelligent systems, applied machine learning, Web3 products, automation, and production-oriented engineering
     </td>
   </tr>
